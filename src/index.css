@@ -1,0 +1,141 @@
+#main{
+  background-image: url("images/stacked-waves-haikei.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat-y;
+  color: white;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+nav{
+  color: white !important;
+  opacity: 1;
+  font-weight: normal;
+}
+.navbar-brand{
+ padding-left: 3rem;
+ color: white !important;
+}
+.nav-link{
+  font-size: 1.2rem;
+  padding-left: 1rem;
+  color: white !important;
+}
+.row{
+  padding: 1rem;
+  margin-bottom: 3rem !important;
+}
+.row-title{
+  text-align: center;
+  margin-bottom: 8px;
+}
+.container:hover {
+  background-color:  rgba(255, 255, 255, 0.316) !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(25px);
+  border: 3px solid  rgba(255, 255, 255, 0.559) !important;
+  cursor: pointer;
+  transition: all .3s !important;
+}
+.first-row, .second-row, .third-row, .fourth-row, .fifth-row, .sixth-row{
+  max-width: 95% !important;
+  margin: auto;
+}
+ .first-row, .second-row, .fifth-row, .sixth-row{
+  background-color:  rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  border: 1px solid  rgba(255, 255, 255, 0.3);
+  border-radius: 2rem;
+}
+.first-row h1{
+  font-size: 4rem;
+  color: white;
+  padding: 8px;
+  border-radius: 1rem;
+}
+.first-row h4{
+  font-size: 2.5rem;
+}
+.first-row p{
+  font-size: 1.2rem;
+}
+.first-row .left{
+  padding-top: 5%;
+}
+.first-row .jarvis-1{
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  width: auto;
+  max-height: 28rem;
+}
+.second-row .left{
+  padding: 2rem !important;
+  padding-top: 5rem !important;
+}
+.second-row .jarvis-2{
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  width: auto;
+  max-height: 32rem;
+}
+.btn{
+  color: #31adbd;
+}
+.btn:hover{
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+}
+.third-row .col-sm-4{
+ margin-bottom: 1.5rem;
+ text-align: center;
+}
+.third-row .container{
+  padding: 1rem;
+  background-color:  rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  border: 1px solid  rgba(255, 255, 255, 0.3);
+  border-radius: 2rem;
+}
+.third-row img{
+  max-height: 22rem;
+  display: block;
+  margin: auto;
+}
+.third-row img.middle{
+  max-height: 25rem;
+}
+.fourth-row .col-sm-4{
+  margin-bottom: 1rem;
+  text-align: center;
+}
+.fourth-row img{
+  display: block;
+  max-width: 4rem;
+  margin: 1rem auto;
+}
+.fourth-row .container{
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color:  rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  border: 1px solid  rgba(255, 255, 255, 0.3);
+  border-radius: 2rem;
+}
+.fifth-row ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.fifth-row ul li{
+  padding-bottom: 1rem;
+}
+.fifth-row a{
+  text-decoration: none;
+  color: white !important;
+}
