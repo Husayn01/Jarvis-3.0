@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { useState } from 'react';
-
 import './index.css';
 import Firstrow from './components/Firstrow';
 import Secondrow from './components/Secondrow';
