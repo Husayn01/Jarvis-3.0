@@ -1,5 +1,5 @@
 ﻿# visit Website
-www.jarvis-3-0.vercel.app
+jarvis-3-0.vercel.app
 # jarvis 3.0
 Jarvis 3.0 is a modern UI website designed 
 with html, css, bootstrap, JavaScript and
